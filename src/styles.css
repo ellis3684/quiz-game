@@ -128,8 +128,8 @@ hr {
   margin-right: 20px;
   color: #293264;
   font-size: 14px;
-  line-height: 0;
-  height: 28px;
+  line-height: 24px;
+  min-height: 28px;
   background: none;
 }
 

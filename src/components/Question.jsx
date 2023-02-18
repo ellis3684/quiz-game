@@ -52,6 +52,10 @@ export default function Question({ question, handleClick, choicesMade }) {
                         </button>
                     )
                 })}
+                {/* <button className='choice-btn'>Really really really really really really really really long text</button>
+                <button className='choice-btn'>Really really really really really really really really long text</button>
+                <button className='choice-btn'>Really really really really really really really really long text</button>
+                <button className='choice-btn'>Really really really really really really really really long text</button> */}
             </div>
             <hr />
         </div>
